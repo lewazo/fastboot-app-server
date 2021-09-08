@@ -29,7 +29,7 @@
     "compression": "^1.7.4",
     "express": "^4.17.1",
     "fastboot": "3.2.0-beta.2",
-    "fastboot-express-middleware": "github:lewazo/fastboot-express-middleware#c0f58f6d0e1698bbe13df8b86d6ac6d9d18992f9"
+    "fastboot-express-middleware": "github:lewazo/fastboot-express-middleware#d4e252ffdf017d30821e24308973ea4f56820c56"
   },
   "devDependencies": {
     "chai": "^4.1.0",
